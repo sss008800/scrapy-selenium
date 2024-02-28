@@ -1,0 +1,2 @@
+https://platform.opentargets.org/target/ENSG00000002745
+https://platform.opentargets.org/target/ENSG00000196937
