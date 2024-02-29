@@ -1,5 +1,5 @@
 # scrapy-selenium爬取动态网页
-
+本项目需求为：从target.txt中获取超多网址，后台chrome访问从而避免js等未加载而爬取不到信息，爬取的结果输出到output.json
 
 ## 1、googledriver下载
 https://googlechromelabs.github.io/chrome-for-testing/ 121版本
